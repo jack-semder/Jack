@@ -8,4 +8,4 @@ My interests other than software development include roadtripping/traveling, hik
 
 
 ## Contact me here! 
-[LinkedIn:](https://www.linkedin.com/in/jacksemder/)
+[LinkedIn](https://www.linkedin.com/in/jacksemder/)
