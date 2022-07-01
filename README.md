@@ -8,13 +8,21 @@ My interests other than software development include roadtripping/traveling, hik
 
 ## Technical Skills
 ➼ Python
+
 ➼ HTML/CSS
+
 ➼ NumPy
+
 ➼ Pandas
+
 ➼ Scikit-learn
+
 ➼ SQL
+
 ➼ TensorFlow
+
 ➼ PyTorch
+
 ➼ Flask
 
 
