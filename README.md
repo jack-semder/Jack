@@ -1,6 +1,6 @@
 ## Hi! I'm Jack.
 
-I'm an emerging python devleloper with a passion for statistics, machine learning, and big data. I'm currently working as an IT administrator, in which I maintain software and automate tasks within my organization.
+I'm an emerging python developer with a passion for statistics, machine learning, and big data. I'm currently working as an IT administrator, in which I maintain software and automate tasks within my organization.
 
 My interests other than software development include roadtripping/traveling, hiking, golf, and most other sports. I've been drawn to sports statistics from a young age, and hope to take my career down that road. 
 
